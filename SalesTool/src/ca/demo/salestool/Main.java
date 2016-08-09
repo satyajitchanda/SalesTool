@@ -17,6 +17,7 @@ public class Main {
 	public static void displayGeeting(){
 		System.out.println("This is first Print1");
 		System.out.println("This is Seound print2");
+		System.out.println("This is Third print 3");
 		
 		
 	}
